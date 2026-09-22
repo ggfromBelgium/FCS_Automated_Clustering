@@ -5,8 +5,8 @@ type: software
 authors:
   - family-names: "Hames"
     given-names: "Gérald"
-    orcid: "https://orcid.org/[0000-0000-0000-0000]"
-    affiliation: "[deDUuve Institute, UCLouvain]"
+    orcid: "https://orcid.org/0009-0002-0505-9936"
+    affiliation: "deDUuve Institute, UCLouvain"
 repository-code: "https://github.com/ggfromBelgium/FCS_Automated_Clustering"
 abstract: >
   R pipeline for automated flow cytometry data analysis: interactive gating,
