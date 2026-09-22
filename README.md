@@ -59,7 +59,7 @@ output folder, ensuring full version traceability.
 ## Data
 
 FCS files are not included in this repository (file size + consent). They are
-available on [Zenodo: DOI to be completed]. The pipeline works with any
+available on [Zenodo: https://doi.org/10.5281/zenodo.22893790]. The pipeline works with any
 concatenated FCS file containing `FileID`/`FolderID` columns.
 
 ## Outputs
