@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "FCS Automated Clustering: FlowSOM and UMAP pipeline for high-dimensional flow cytometry"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Hames"
+    given-names: "Gérald"
+    orcid: "https://orcid.org/[0000-0000-0000-0000]"
+    affiliation: "[deDUuve Institute, UCLouvain]"
+repository-code: "https://github.com/ggfromBelgium/FCS_Automated_Clustering"
+abstract: >
+  R pipeline for automated flow cytometry data analysis: interactive gating,
+  FlowSOM clustering with robust cluster-number selection (bootstrap,
+  consensus), UMAP visualisation, AI-assisted cluster annotation, and
+  comparative analysis across conditions.
+keywords:
+  - flow cytometry
+  - FlowSOM
+  - UMAP
+  - clustering
+  - immunology
+license: MIT
+version: 1.0.0
+date-released: "2026-09-22"
