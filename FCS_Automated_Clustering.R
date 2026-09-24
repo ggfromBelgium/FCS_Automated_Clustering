@@ -142,7 +142,7 @@ open_pdf <- function(pdf_file) {
 }
 
 # ============================================================================
-# SECTION 3: FONCTIONS D'APPEL API ET PARSING ROBUSTE
+# SECTION 3: FONCTIONS D'APPEL API
 # ============================================================================
 call_deepseek <- function(prompt, api_key) {
   url <- "https://api.deepseek.com/v1/chat/completions"
@@ -224,7 +224,7 @@ parse_json_with_fallback <- function(response_text, n_clusters) {
 }
 
 # ============================================================================
-# SECTION 4: ANNOTATION AUTOMATISÉE (DeepSeek)
+# SECTION 4: ANNOTATION AUTOMATISÉE
 # ============================================================================
 
 annotate_clusters_improved <- function(cluster_medians, marker_descriptions, output_dir = NULL,
