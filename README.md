@@ -78,6 +78,7 @@ Code under the [MIT License](LICENSE). Associated data under [CC-BY 4.0]
 
 If you use this code, please cite: [to be completed after publication],
 and this GitHub repository (see `CITATION.cff`).
+BibTeX entries for the underlying R packages are provided in [`CITATIONS.bib`](CITATIONS.bib).
 
 ## Disclaimer
 
