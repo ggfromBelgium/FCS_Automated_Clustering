@@ -36,8 +36,8 @@ console. Run it in RStudio or an interactive R session (not via batch `Rscript`)
 ### DeepSeek API key (optional automatic annotation)
 
 The key is read in this order: `~/.deepseek_api_key` → `DEEPSEEK_API_KEY`
-environment variable → interactive prompt. **Never commit an API key** (see
-`.gitignore`). Without a key, the pipeline falls back to manual cluster
+environment variable → interactive prompt. **Never commit an API key**. 
+Without a key, the pipeline falls back to manual cluster
 annotation.
 
 ## Dependencies
